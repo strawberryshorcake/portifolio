@@ -10,7 +10,9 @@ body {
      font-family: "Playfair Display", serif
 }
 
-h1, h2, h5 {
+h1,
+h2,
+h5 {
     color: var(--cor-secundaria);
     font-weight: 700;
 }
